@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9868fc5b-2441-4ee2-bc28-69c9425e6f7a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adventofcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/solutions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/solutions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/solutions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +36,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -91,7 +79,7 @@
       <updated>1733089348857</updated>
       <workItem from="1733089349921" duration="2232000" />
       <workItem from="1733127532291" duration="9151000" />
-      <workItem from="1733233181621" duration="1241000" />
+      <workItem from="1733233181621" duration="3702000" />
     </task>
     <servers />
   </component>
